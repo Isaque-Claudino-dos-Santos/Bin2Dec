@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#boxes {
+    transform: translate(0,-50%);
+
+    width: 300px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+}
+
+#boxes #error {
+    text-align: center;
+
+    border: 1px solid white;
+    border-radius: 5px;
+
+    color: white;
+    background-color: red;
+}
