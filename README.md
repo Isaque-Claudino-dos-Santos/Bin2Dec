@@ -7,3 +7,10 @@
   Criar um conversor de binario para decima.
   
   Languages(html,css,js)
+
+  
+  
+  
+  
+  
+  ###### *Concluido
